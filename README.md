@@ -19,7 +19,7 @@ Ce projet fonctionne toujours, si le dossier n'est pas sur un serveur web, la co
         - encodage 'utf8_general_ci'
         - un utilisateur avec comme nom 'vtc_user', mot de passe 'caribou' et lui donner les droits sur la base
 ### 2. Cloner le git :
-    https://gitlab.com/n.renault/futurovtc.git.
+    https://gitlab.com/n.renault/futurovtc.git (2025 : ou ce répo)
 ### 3. Composer :
     En ligne de commandes dans le dossier "futurovtc/vtc_web/" faire la commande : composer install
 ### 4. Modifier le .env :
